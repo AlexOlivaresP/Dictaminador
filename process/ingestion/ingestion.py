@@ -94,7 +94,7 @@ class Ingestion:
         except Exception as e:
             print(f"Error en la funcion clean_text: {e}")
 
-    def text_preprocess(path: str):
+    def text_preprocess(path: str, logger: logging) -> list:
         """
         Esta función recibe el path de un archivo pdf y devuelve el texto preprocesado.
 
@@ -107,10 +107,14 @@ class Ingestion:
         nlp = spacy.load("es_core_news_sm")
         try:
             ingestion = Ingestion.pdf_reader(path)
+            logger.info(f"Texto leído del archivo {path}")
             tokens = Ingestion.text_tokenizer(ingestion, nlp)
+            logger.info(f"Texto tokenizado")
             clean_text = Ingestion.clean_text(tokens)
+            logger.info(f"Texto limpio")
             lemmas = Ingestion.text_lemmatizer(clean_text, nlp)
+            logger.info(f"Texto lemmantizado")
             return lemmas
 
         except Exception as e:
-            print(e)
+            logger.error(f"Error en la función text_preprocess: {e}")

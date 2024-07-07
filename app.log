@@ -1,0 +1,235 @@
+2024-07-07 00:59:12,269 - INFO - Iniciando proceso de ingestión
+2024-07-07 01:00:45,778 - INFO - Iniciando proceso de ingestión
+2024-07-07 01:02:34,534 - INFO - Iniciando proceso de ingestión
+2024-07-07 01:07:28,626 - INFO - Iniciando proceso de ingestión
+2024-07-07 01:08:22,358 - INFO - Iniciando proceso de ingestión
+2024-07-07 01:32:30,613 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:32:30,614 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:32:45,437 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:32:49,178 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 1 + 278-84-376-0494-7 - app
+2024-07-07 01:33:10,983 - INFO - Datos guardados en Firebase - app
+2024-07-07 01:34:00,549 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:34:00,549 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:34:15,585 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:34:17,774 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:34:33,202 - INFO - Datos guardados en Firebase - app
+2024-07-07 01:37:04,177 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:37:04,177 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:37:04,627 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:37:05,752 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:37:05,785 - INFO - Texto limpio - ingestion
+2024-07-07 01:37:19,038 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:37:19,039 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:37:19,367 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:37:19,497 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:37:19,501 - INFO - Texto limpio - ingestion
+2024-07-07 01:37:21,233 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:37:21,234 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:37:45,738 - INFO - Datos guardados en Firebase - app
+2024-07-07 01:38:24,967 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:38:24,968 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:38:25,407 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:38:26,470 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:38:26,503 - INFO - Texto limpio - ingestion
+2024-07-07 01:38:40,017 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:38:40,019 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:38:40,344 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:38:40,475 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:38:40,480 - INFO - Texto limpio - ingestion
+2024-07-07 01:38:42,181 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:38:42,182 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:38:42,183 - INFO - Iniciando proceso de guardado en Firebase - app
+2024-07-07 01:39:06,795 - INFO - Datos guardados en Firebase - app
+2024-07-07 01:45:35,953 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:45:35,953 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:45:36,387 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:45:37,449 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:45:37,483 - INFO - Texto limpio - ingestion
+2024-07-07 01:45:50,714 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:45:50,715 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:45:51,041 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:45:51,172 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:45:51,177 - INFO - Texto limpio - ingestion
+2024-07-07 01:45:52,880 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:45:52,881 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:47:12,796 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:47:12,796 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:47:13,232 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:47:14,286 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:47:14,319 - INFO - Texto limpio - ingestion
+2024-07-07 01:47:27,674 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:47:27,675 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:47:28,001 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:47:28,131 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:47:28,136 - INFO - Texto limpio - ingestion
+2024-07-07 01:47:29,825 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:47:29,827 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:48:16,108 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:48:16,108 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:48:16,542 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:48:17,606 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:48:17,640 - INFO - Texto limpio - ingestion
+2024-07-07 01:48:31,083 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:48:31,085 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:48:31,413 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:48:31,545 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:48:31,549 - INFO - Texto limpio - ingestion
+2024-07-07 01:48:33,241 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:48:33,242 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:53:08,006 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:53:08,006 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:53:08,437 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:53:09,494 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:53:09,528 - INFO - Texto limpio - ingestion
+2024-07-07 01:53:22,832 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:53:22,833 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:53:23,159 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:53:23,291 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:53:23,295 - INFO - Texto limpio - ingestion
+2024-07-07 01:53:25,022 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:53:25,023 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:53:41,936 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:53:41,936 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:53:42,374 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:53:43,433 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:53:43,466 - INFO - Texto limpio - ingestion
+2024-07-07 01:53:56,726 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:53:56,728 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:53:57,056 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:53:57,193 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:53:57,197 - INFO - Texto limpio - ingestion
+2024-07-07 01:53:58,895 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:53:58,896 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:54:45,785 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:54:45,785 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:54:46,219 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:54:47,273 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:54:47,307 - INFO - Texto limpio - ingestion
+2024-07-07 01:55:00,614 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:55:00,616 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:55:00,942 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:55:01,078 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:55:01,083 - INFO - Texto limpio - ingestion
+2024-07-07 01:55:02,796 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:55:02,798 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:57:22,757 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:57:22,757 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:57:23,190 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:57:24,266 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:57:24,300 - INFO - Texto limpio - ingestion
+2024-07-07 01:57:37,583 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:57:37,585 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:57:37,917 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:57:38,053 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:57:38,058 - INFO - Texto limpio - ingestion
+2024-07-07 01:57:39,756 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:57:39,757 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:58:13,702 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:58:13,702 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:58:14,134 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:58:15,196 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:58:15,230 - INFO - Texto limpio - ingestion
+2024-07-07 01:58:28,499 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:58:28,501 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 01:58:28,827 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 01:58:28,963 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:58:28,967 - INFO - Texto limpio - ingestion
+2024-07-07 01:58:30,660 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:58:30,661 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 01:59:44,934 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 01:59:44,934 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 01:59:45,369 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 01:59:46,424 - INFO - Texto tokenizado - ingestion
+2024-07-07 01:59:46,458 - INFO - Texto limpio - ingestion
+2024-07-07 01:59:59,979 - INFO - Texto lemmantizado - ingestion
+2024-07-07 01:59:59,980 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:00:00,312 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:00:00,447 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:00:00,451 - INFO - Texto limpio - ingestion
+2024-07-07 02:00:02,166 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:00:02,167 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 02:00:18,335 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 02:00:18,335 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 02:00:18,802 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 02:00:19,886 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:00:19,919 - INFO - Texto limpio - ingestion
+2024-07-07 02:00:33,451 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:00:33,453 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:00:33,790 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:00:33,927 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:00:33,931 - INFO - Texto limpio - ingestion
+2024-07-07 02:00:35,674 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:00:35,676 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 02:14:19,593 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 02:14:19,593 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 02:14:20,064 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 02:14:21,125 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:14:21,160 - INFO - Texto limpio - ingestion
+2024-07-07 02:14:34,334 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:14:34,336 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:14:34,662 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:14:34,792 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:14:34,797 - INFO - Texto limpio - ingestion
+2024-07-07 02:14:36,482 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:14:36,483 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 02:15:59,791 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 02:15:59,791 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 02:16:00,264 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 02:16:01,340 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:16:01,373 - INFO - Texto limpio - ingestion
+2024-07-07 02:16:14,686 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:16:14,688 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:16:15,013 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:16:15,143 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:16:15,147 - INFO - Texto limpio - ingestion
+2024-07-07 02:16:16,828 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:16:16,829 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 02:17:11,301 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 02:17:11,301 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 02:17:11,775 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 02:17:12,831 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:17:12,865 - INFO - Texto limpio - ingestion
+2024-07-07 02:17:26,174 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:17:26,176 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:17:26,503 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:17:26,634 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:17:26,639 - INFO - Texto limpio - ingestion
+2024-07-07 02:17:28,346 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:17:28,348 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 02:17:41,456 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 02:17:41,456 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 02:17:41,929 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 02:17:42,983 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:17:43,019 - INFO - Texto limpio - ingestion
+2024-07-07 02:17:56,333 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:17:56,335 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:17:56,663 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:17:56,794 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:17:56,799 - INFO - Texto limpio - ingestion
+2024-07-07 02:17:58,552 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:17:58,553 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 02:22:01,758 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 02:22:01,758 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 02:22:02,230 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 02:22:03,286 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:22:03,320 - INFO - Texto limpio - ingestion
+2024-07-07 02:22:16,946 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:22:16,948 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:22:17,276 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:22:17,406 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:22:17,410 - INFO - Texto limpio - ingestion
+2024-07-07 02:22:19,121 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:22:19,122 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-07-07 02:22:21,322 - INFO - generated new fontManager - font_manager
+2024-07-07 02:23:14,289 - INFO - Conexión a Firebase exitosa - app
+2024-07-07 02:23:14,290 - INFO - Iniciando proceso de ingestión - app
+2024-07-07 02:23:14,764 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-07-07 02:23:15,821 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:23:15,855 - INFO - Texto limpio - ingestion
+2024-07-07 02:23:29,089 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:23:29,091 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-07-07 02:23:29,417 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-07-07 02:23:29,548 - INFO - Texto tokenizado - ingestion
+2024-07-07 02:23:29,553 - INFO - Texto limpio - ingestion
+2024-07-07 02:23:31,248 - INFO - Texto lemmantizado - ingestion
+2024-07-07 02:23:31,249 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
