@@ -114,7 +114,7 @@ class Ingestion:
             logger.info(f"Texto limpio")
             lemmas = Ingestion.text_lemmatizer(clean_text, nlp)
             logger.info(f"Texto lemmantizado")
-            return lemmas
+            return lemmas, ingestion
 
         except Exception as e:
             logger.error(f"Error en la función text_preprocess: {e}")

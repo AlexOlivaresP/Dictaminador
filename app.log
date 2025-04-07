@@ -233,3 +233,224 @@
 2024-07-07 02:23:29,553 - INFO - Texto limpio - ingestion
 2024-07-07 02:23:31,248 - INFO - Texto lemmantizado - ingestion
 2024-07-07 02:23:31,249 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-08-27 21:50:50,781 - INFO - Conexión a Firebase exitosa - app
+2024-08-27 21:50:50,781 - INFO - Iniciando proceso de ingestión - app
+2024-08-27 21:50:51,482 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-08-27 21:50:52,514 - INFO - Texto tokenizado - ingestion
+2024-08-27 21:50:52,549 - INFO - Texto limpio - ingestion
+2024-08-27 21:51:05,622 - INFO - Texto lemmantizado - ingestion
+2024-08-27 21:51:05,623 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-08-27 21:51:05,959 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-08-27 21:51:06,089 - INFO - Texto tokenizado - ingestion
+2024-08-27 21:51:06,094 - INFO - Texto limpio - ingestion
+2024-08-27 21:51:07,800 - INFO - Texto lemmantizado - ingestion
+2024-08-27 21:51:07,801 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-08-27 21:56:53,317 - INFO - Conexión a Firebase exitosa - app
+2024-08-27 21:56:53,317 - INFO - Iniciando proceso de ingestión - app
+2024-08-27 21:56:53,785 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-08-27 21:56:54,819 - INFO - Texto tokenizado - ingestion
+2024-08-27 21:56:54,854 - INFO - Texto limpio - ingestion
+2024-08-27 21:57:08,383 - INFO - Texto lemmantizado - ingestion
+2024-08-27 21:57:08,384 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-08-27 21:57:08,719 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-08-27 21:57:08,850 - INFO - Texto tokenizado - ingestion
+2024-08-27 21:57:08,855 - INFO - Texto limpio - ingestion
+2024-08-27 21:57:10,718 - INFO - Texto lemmantizado - ingestion
+2024-08-27 21:57:10,720 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-11-18 18:03:08,479 - INFO - Conexión a Firebase exitosa - app
+2024-11-18 18:03:08,479 - INFO - Iniciando proceso de ingestión - app
+2024-11-18 18:03:09,183 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-11-18 18:03:10,214 - INFO - Texto tokenizado - ingestion
+2024-11-18 18:03:10,244 - INFO - Texto limpio - ingestion
+2024-11-18 18:03:23,307 - INFO - Texto lemmantizado - ingestion
+2024-11-18 18:03:23,308 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-11-18 18:03:23,649 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen el agua 2.pdf - ingestion
+2024-11-18 18:03:23,782 - INFO - Texto tokenizado - ingestion
+2024-11-18 18:03:23,787 - INFO - Texto limpio - ingestion
+2024-11-18 18:03:25,482 - INFO - Texto lemmantizado - ingestion
+2024-11-18 18:03:25,484 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen el agua 2 + 278-84-376-0494-7 - app
+2024-11-18 18:13:37,217 - INFO - Conexión a Firebase exitosa - app
+2024-11-18 18:13:37,217 - INFO - Iniciando proceso de ingestión - app
+2024-11-18 18:13:37,678 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-11-18 18:13:38,710 - INFO - Texto tokenizado - ingestion
+2024-11-18 18:13:38,745 - INFO - Texto limpio - ingestion
+2024-11-18 18:13:51,582 - INFO - Texto lemmantizado - ingestion
+2024-11-18 18:13:51,584 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-11-18 18:13:51,904 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2024-11-18 18:13:52,032 - INFO - Texto tokenizado - ingestion
+2024-11-18 18:13:52,037 - INFO - Texto limpio - ingestion
+2024-11-18 18:13:53,724 - INFO - Texto lemmantizado - ingestion
+2024-11-18 18:13:53,725 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2024-12-04 18:40:53,563 - INFO - Conexión a Firebase exitosa - app
+2024-12-04 18:40:53,564 - INFO - Iniciando proceso de ingestión - app
+2024-12-04 18:40:54,309 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-12-04 18:40:55,398 - INFO - Texto tokenizado - ingestion
+2024-12-04 18:40:55,433 - INFO - Texto limpio - ingestion
+2024-12-04 18:41:08,710 - INFO - Texto lemmantizado - ingestion
+2024-12-04 18:41:08,711 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-12-04 18:41:09,043 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2024-12-04 18:41:09,171 - INFO - Texto tokenizado - ingestion
+2024-12-04 18:41:09,175 - INFO - Texto limpio - ingestion
+2024-12-04 18:41:10,854 - INFO - Texto lemmantizado - ingestion
+2024-12-04 18:41:10,855 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2024-12-04 18:41:25,331 - INFO - Conexión a Firebase exitosa - app
+2024-12-04 18:41:25,332 - INFO - Iniciando proceso de ingestión - app
+2024-12-04 18:41:25,805 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2024-12-04 18:41:26,879 - INFO - Texto tokenizado - ingestion
+2024-12-04 18:41:26,912 - INFO - Texto limpio - ingestion
+2024-12-04 18:41:40,394 - INFO - Texto lemmantizado - ingestion
+2024-12-04 18:41:40,395 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2024-12-04 18:41:40,716 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2024-12-04 18:41:40,846 - INFO - Texto tokenizado - ingestion
+2024-12-04 18:41:40,851 - INFO - Texto limpio - ingestion
+2024-12-04 18:41:42,528 - INFO - Texto lemmantizado - ingestion
+2024-12-04 18:41:42,529 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 18:56:21,720 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 18:56:21,720 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 18:56:22,406 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 18:56:23,425 - INFO - Texto tokenizado - ingestion
+2025-04-06 18:56:23,457 - INFO - Texto limpio - ingestion
+2025-04-06 18:56:36,051 - INFO - Texto lemmantizado - ingestion
+2025-04-06 18:56:36,052 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 18:56:36,394 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 18:56:36,518 - INFO - Texto tokenizado - ingestion
+2025-04-06 18:56:36,522 - INFO - Texto limpio - ingestion
+2025-04-06 18:56:38,262 - INFO - Texto lemmantizado - ingestion
+2025-04-06 18:56:38,263 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:01:12,709 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:01:12,709 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:01:13,132 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:01:14,136 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:01:14,162 - INFO - Texto limpio - ingestion
+2025-04-06 19:01:26,583 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:01:26,583 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:01:26,910 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:01:27,105 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:01:27,105 - INFO - Texto limpio - ingestion
+2025-04-06 19:01:28,714 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:01:28,714 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:01:28,748 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:01:28,799 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:01:44,605 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:01:44,605 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:01:45,014 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:01:46,030 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:01:46,062 - INFO - Texto limpio - ingestion
+2025-04-06 19:01:58,512 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:01:58,512 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:01:58,827 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:01:59,021 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:01:59,037 - INFO - Texto limpio - ingestion
+2025-04-06 19:02:00,644 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:02:00,644 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:02:00,682 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:02:00,728 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:02:00,728 - INFO - Palabras mal escritas: {'estudiado', 'distribuido', 'deryagin', 'botellar', 'poliagua', 'enel', 'deslizar él', 'fowler', 'encontrar él', 'retirar él', 'evaporo', 'demá', 'interesanteperir', 'sometido', 'absorbido', 'mileto', 'nutrient', 'separar él', 'inmensar', 'congelar él', 'planetir', 'atmosferar', 'extravagant', 'robert', 'modernización', 'circula', 'queme', 'leer él', 'cómo', 'huckel', 'décado', 'kilogramos', 'cuidar él', 'dándono', 'bernal', 'constituyent', 'sodar', 'numero', 'conocer él', 'hirviéndola', 'cumu él', 'jaralvalle', 'cuándo', 'etc', 'inodorir', 'cm', 'solido', 'lamente', 'valerio', 'emily', 'gonzález', 'manuel', 'observabl', 'cetis', 'aqua', 'constituido', 'formado', 'farso', 'actúar', 'vernom'} - app
+2025-04-06 19:03:59,522 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:03:59,522 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:03:59,953 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:04:00,965 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:04:00,992 - INFO - Texto limpio - ingestion
+2025-04-06 19:04:13,414 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:04:13,414 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:04:13,734 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:04:13,934 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:04:13,934 - INFO - Texto limpio - ingestion
+2025-04-06 19:04:15,531 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:04:15,531 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:04:15,564 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:04:15,612 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:04:15,612 - INFO - Porcentaje de palabras mal escritas: 9.30% - app
+2025-04-06 19:12:57,341 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:12:57,341 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:12:57,763 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:12:58,781 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:12:58,815 - INFO - Texto limpio - ingestion
+2025-04-06 19:13:11,279 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:13:11,279 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:13:11,593 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:13:11,796 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:13:11,796 - INFO - Texto limpio - ingestion
+2025-04-06 19:13:13,404 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:13:13,404 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:13:13,438 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:13:13,481 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:13:13,481 - INFO - Porcentaje de palabras mal escritas: 9.30% - app
+2025-04-06 19:16:01,892 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:16:01,908 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:16:02,329 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:16:03,357 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:16:03,393 - INFO - Texto limpio - ingestion
+2025-04-06 19:16:15,936 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:16:15,936 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:16:16,340 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:16:16,458 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:16:16,458 - INFO - Texto limpio - ingestion
+2025-04-06 19:16:18,071 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:16:18,072 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:16:18,097 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:16:18,134 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:16:18,134 - INFO - Porcentaje de palabras mal escritas: 9.30% - app
+2025-04-06 19:19:30,353 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:19:30,353 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:19:30,770 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:19:31,793 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:19:31,823 - INFO - Texto limpio - ingestion
+2025-04-06 19:19:44,356 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:19:44,356 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:19:44,737 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:19:44,869 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:19:44,869 - INFO - Texto limpio - ingestion
+2025-04-06 19:19:46,471 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:19:46,471 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:19:46,493 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:19:46,539 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:19:46,539 - INFO - Porcentaje de palabras mal escritas: 9.30% - app
+2025-04-06 19:24:00,884 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:24:00,884 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:24:01,300 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:24:02,316 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:24:02,340 - INFO - Texto limpio - ingestion
+2025-04-06 19:24:14,910 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:24:14,910 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:24:15,302 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:24:15,431 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:24:15,431 - INFO - Texto limpio - ingestion
+2025-04-06 19:24:17,043 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:24:17,043 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:24:17,073 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:24:17,118 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:24:17,118 - INFO - Porcentaje de palabras mal escritas: 9.30% - app
+2025-04-06 19:28:14,257 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:28:14,257 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:28:14,679 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:28:15,684 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:28:15,712 - INFO - Texto limpio - ingestion
+2025-04-06 19:28:28,275 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:28:28,275 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:28:28,681 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:28:28,809 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:28:28,809 - INFO - Texto limpio - ingestion
+2025-04-06 19:28:30,447 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:28:30,447 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:28:30,472 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:28:30,514 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:28:30,514 - INFO - Porcentaje de palabras mal escritas: 9.30% - app
+2025-04-06 19:31:41,336 - INFO - Conexión a Firebase exitosa - app
+2025-04-06 19:31:41,336 - INFO - Iniciando proceso de ingestión - app
+2025-04-06 19:31:41,756 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/libro/el-agua-manuel-guerrero.pdf - ingestion
+2025-04-06 19:31:42,774 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:31:42,807 - INFO - Texto limpio - ingestion
+2025-04-06 19:31:55,231 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:31:55,232 - INFO - Proceso de ingestión de libro finalizado para el libro el-agua-manuel-guerrero + 278-84-376-0494-7 - app
+2025-04-06 19:31:55,610 - INFO - Texto leído del archivo C:/Users/jalex/Documents/TESIS/Dictaminador/Dictaminador/test_resources/input/resumen/resumen del libro el agua.pdf - ingestion
+2025-04-06 19:31:55,749 - INFO - Texto tokenizado - ingestion
+2025-04-06 19:31:55,753 - INFO - Texto limpio - ingestion
+2025-04-06 19:31:57,351 - INFO - Texto lemmantizado - ingestion
+2025-04-06 19:31:57,351 - INFO - Proceso de ingestión de resumen finalizado para el resumen resumen del libro el agua + 278-84-376-0494-7 - app
+2025-04-06 19:31:57,374 - INFO - Iniciando evaluación ortográfica - app
+2025-04-06 19:31:57,415 - INFO - Número de palabras mal escritas: 60 - app
+2025-04-06 19:31:57,415 - INFO - Porcentaje de palabras mal escritas: 9.30% - app
+2025-04-06 19:31:57,415 - INFO - Iniciando evaluación gramatical - app
+2025-04-06 19:32:25,326 - INFO - Unzipping C:\Users\jalex\AppData\Local\Temp\tmpennmitas.zip to C:\Users\jalex\.cache\language_tool_python. - download_lt
+2025-04-06 19:32:27,373 - INFO - Downloaded https://www.languagetool.org/download/LanguageTool-6.5.zip to C:\Users\jalex\.cache\language_tool_python. - download_lt
